@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin_Compose-TarjetaPresentacion</string>
+    <string name="nombre">Jesús Alcaraz</string>
+    <string name="profesion">Desarrollador Android</string>
+    <string name="telefono">+34 666666666</string>
+    <string name="email">aaa@eee.es</string>
+    <string name="social">gsus.alcaraz</string>
+
+</resources>
